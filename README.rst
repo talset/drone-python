@@ -20,7 +20,7 @@ Current Status
 --------------
 
 drone-python provides a stable plugin module. The HTTP API client is still
-in flux.
+in flux
 
 Documentation
 -------------
