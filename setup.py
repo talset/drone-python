@@ -1,7 +1,7 @@
 import re
 from setuptools import setup, find_packages
 
-#
+##
 
 with open('drone/__init__.py', 'r') as fd:
     version = re.search(r'^__version__\s*=\s*[\'"]([^\'"]*)[\'"]',
